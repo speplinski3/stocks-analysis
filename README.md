@@ -65,6 +65,6 @@ The advantages of refactoring the "All Stocks Analysis" code:
 
 The disadvantages of refactoring the "All Stocks Analysis" code:
 
-  -None, other than the time taken reworking it.
+  - None, other than the time taken reworking it.
   
  ### Improvement in efficiency and organization are always worth the time, especially if it helps maintain the overall function of the program wanting to be run.
